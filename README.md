@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-juhemcp-jnews-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-juhemcp-jnews-mcp-server)
+
 # Juhe News MCP Server
 
 一个提供新闻头条信息功能的模型上下文协议（Model Context Protocol）服务器。该服务器使大型语言模型（LLMs）能够获取当前最新的热点新闻头条（包括：推荐、国内、科技、体育等类型）及详细内容信息。
